@@ -12,7 +12,7 @@ body {
     background-color: aqua;
 }
 
-h1 h2 {
-    width: 100%;
+h1, h2 {
     text-align: center;
+    line-height: 0px;
 }
